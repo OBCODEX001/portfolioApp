@@ -87,10 +87,10 @@ label {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
 }
-.show{
+/* .show{
   background-color: white;
   
-}
+} */
 body {
   background-color: var(--body-color);
   color: var(--text-color);

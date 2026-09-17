@@ -10,9 +10,9 @@ if(navToggle){
    })
 }
 
-const toggler = document.getElementById("toggler").addEventListener("click", (e)=>{
-   document.body.classList.toggle("show")
-})
+// const toggler = document.getElementById("toggler").addEventListener("click", (e)=>{
+//    document.body.classList.toggle("show")
+// })
 
 /* Hide menu */
 if(navClose){
